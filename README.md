@@ -70,6 +70,12 @@ Dataset for benchmark/test/experiment/evalutation
 - [SVO-SLAM](https://github.com/uzh-rpg/rpg_svo). Available on ROS
 > Christian Forster, Matia Pizzoli, Davide Scaramuzza, "SVO: Fast Semi-direct Monocular Visual Odometry," IEEE International Conference on Robotics and Automation, 2014.
 
+
+- [MONO-SLAM](https://github.com/rrg-polito/mono-slam). Available on ROS
+> Russo L.O., Rosa S., Bona B., Matteucci M., "A ROS IMPLEMENTATION OF THE MONO-SLAM ALGORITHM", International Journal of Computer Science & Information Technology, Vol. 6 Issue 1, p339
+
+
+
 ###### RGB and Depth (Called RGBD):
 - [OpenCV RGBD-Odometry (Visual Odometry based RGB-D images)](https://github.com/tzutalin/OpenCV-RgbdOdometry)
 > Real-Time Visual Odometry from Dense RGB-D Images, F. Steinbucker, J. Strum, D. Cremers, ICCV, 2011
